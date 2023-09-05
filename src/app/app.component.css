@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: red;
+    background-color:darkslategray;
+    
+}
+#img{
+    height: 200px;
+    width:200px;
+    border-radius: 80px;
+    border-style:double;
+    border-color: crimson;
+    margin-left:470px;
+
+}
+#para{
+    color:ash;
+    text-align: center;
+    text-decoration: none;
+}
+#a{
+    text-decoration: none;
+    color:ash;
+}
+h2{
+    text-align: center;
+    color: yellowgreen;
+    background-color:black;
+}
+#pic{
+    display: flex;
+    
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin: auto;
+    
+    
+}
+body{
+    background-color: antiquewhite;
+    border-style: dotted;
+    border-color: black;
+}
+
